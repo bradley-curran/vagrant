@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MIT
+
 
 # NOTE: This release will generate a new release on the installers
 # repository which in turn triggers a full package build

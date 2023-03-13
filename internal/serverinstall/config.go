@@ -1,3 +1,6 @@
+// Copyright (c) HashiCorp, Inc.
+// SPDX-License-Identifier: MIT
+
 package serverinstall
 
 // Config is the configuration for the Kubernetes installation template.
